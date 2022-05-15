@@ -1,0 +1,15 @@
+/home/jj/Documentos/ADSO/adso-2022-jj/AleRayo/obj/Debug/net6.0/AleRayo.csproj.AssemblyReference.cache
+/home/jj/Documentos/ADSO/adso-2022-jj/AleRayo/obj/Debug/net6.0/AleRayo.GeneratedMSBuildEditorConfig.editorconfig
+/home/jj/Documentos/ADSO/adso-2022-jj/AleRayo/obj/Debug/net6.0/AleRayo.AssemblyInfoInputs.cache
+/home/jj/Documentos/ADSO/adso-2022-jj/AleRayo/obj/Debug/net6.0/AleRayo.AssemblyInfo.cs
+/home/jj/Documentos/ADSO/adso-2022-jj/AleRayo/obj/Debug/net6.0/AleRayo.csproj.CoreCompileInputs.cache
+/home/jj/Documentos/ADSO/adso-2022-jj/AleRayo/bin/Debug/net6.0/AleRayo
+/home/jj/Documentos/ADSO/adso-2022-jj/AleRayo/bin/Debug/net6.0/AleRayo.deps.json
+/home/jj/Documentos/ADSO/adso-2022-jj/AleRayo/bin/Debug/net6.0/AleRayo.runtimeconfig.json
+/home/jj/Documentos/ADSO/adso-2022-jj/AleRayo/bin/Debug/net6.0/AleRayo.dll
+/home/jj/Documentos/ADSO/adso-2022-jj/AleRayo/bin/Debug/net6.0/AleRayo.pdb
+/home/jj/Documentos/ADSO/adso-2022-jj/AleRayo/obj/Debug/net6.0/AleRayo.dll
+/home/jj/Documentos/ADSO/adso-2022-jj/AleRayo/obj/Debug/net6.0/refint/AleRayo.dll
+/home/jj/Documentos/ADSO/adso-2022-jj/AleRayo/obj/Debug/net6.0/AleRayo.pdb
+/home/jj/Documentos/ADSO/adso-2022-jj/AleRayo/obj/Debug/net6.0/AleRayo.genruntimeconfig.cache
+/home/jj/Documentos/ADSO/adso-2022-jj/AleRayo/obj/Debug/net6.0/ref/AleRayo.dll

@@ -1,0 +1,5 @@
+/home/jj/Documentos/ADSO/adso-2022-jj/IPaBin/obj/Debug/net6.0/IPaBin.csproj.AssemblyReference.cache
+/home/jj/Documentos/ADSO/adso-2022-jj/IPaBin/obj/Debug/net6.0/IPaBin.GeneratedMSBuildEditorConfig.editorconfig
+/home/jj/Documentos/ADSO/adso-2022-jj/IPaBin/obj/Debug/net6.0/IPaBin.AssemblyInfoInputs.cache
+/home/jj/Documentos/ADSO/adso-2022-jj/IPaBin/obj/Debug/net6.0/IPaBin.AssemblyInfo.cs
+/home/jj/Documentos/ADSO/adso-2022-jj/IPaBin/obj/Debug/net6.0/IPaBin.csproj.CoreCompileInputs.cache

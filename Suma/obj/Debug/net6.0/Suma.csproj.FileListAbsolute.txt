@@ -1,0 +1,15 @@
+/home/jj/Documentos/ADSO/adso-2022-jj/Suma/bin/Debug/net6.0/Suma
+/home/jj/Documentos/ADSO/adso-2022-jj/Suma/bin/Debug/net6.0/Suma.deps.json
+/home/jj/Documentos/ADSO/adso-2022-jj/Suma/bin/Debug/net6.0/Suma.runtimeconfig.json
+/home/jj/Documentos/ADSO/adso-2022-jj/Suma/bin/Debug/net6.0/Suma.dll
+/home/jj/Documentos/ADSO/adso-2022-jj/Suma/bin/Debug/net6.0/Suma.pdb
+/home/jj/Documentos/ADSO/adso-2022-jj/Suma/obj/Debug/net6.0/Suma.csproj.AssemblyReference.cache
+/home/jj/Documentos/ADSO/adso-2022-jj/Suma/obj/Debug/net6.0/Suma.GeneratedMSBuildEditorConfig.editorconfig
+/home/jj/Documentos/ADSO/adso-2022-jj/Suma/obj/Debug/net6.0/Suma.AssemblyInfoInputs.cache
+/home/jj/Documentos/ADSO/adso-2022-jj/Suma/obj/Debug/net6.0/Suma.AssemblyInfo.cs
+/home/jj/Documentos/ADSO/adso-2022-jj/Suma/obj/Debug/net6.0/Suma.csproj.CoreCompileInputs.cache
+/home/jj/Documentos/ADSO/adso-2022-jj/Suma/obj/Debug/net6.0/Suma.dll
+/home/jj/Documentos/ADSO/adso-2022-jj/Suma/obj/Debug/net6.0/refint/Suma.dll
+/home/jj/Documentos/ADSO/adso-2022-jj/Suma/obj/Debug/net6.0/Suma.pdb
+/home/jj/Documentos/ADSO/adso-2022-jj/Suma/obj/Debug/net6.0/Suma.genruntimeconfig.cache
+/home/jj/Documentos/ADSO/adso-2022-jj/Suma/obj/Debug/net6.0/ref/Suma.dll

@@ -1,0 +1,15 @@
+/home/jj/Documentos/ADSO/adso-2022-jj/InvNum/bin/Debug/net6.0/InvNum
+/home/jj/Documentos/ADSO/adso-2022-jj/InvNum/bin/Debug/net6.0/InvNum.deps.json
+/home/jj/Documentos/ADSO/adso-2022-jj/InvNum/bin/Debug/net6.0/InvNum.runtimeconfig.json
+/home/jj/Documentos/ADSO/adso-2022-jj/InvNum/bin/Debug/net6.0/InvNum.dll
+/home/jj/Documentos/ADSO/adso-2022-jj/InvNum/bin/Debug/net6.0/InvNum.pdb
+/home/jj/Documentos/ADSO/adso-2022-jj/InvNum/obj/Debug/net6.0/InvNum.csproj.AssemblyReference.cache
+/home/jj/Documentos/ADSO/adso-2022-jj/InvNum/obj/Debug/net6.0/InvNum.GeneratedMSBuildEditorConfig.editorconfig
+/home/jj/Documentos/ADSO/adso-2022-jj/InvNum/obj/Debug/net6.0/InvNum.AssemblyInfoInputs.cache
+/home/jj/Documentos/ADSO/adso-2022-jj/InvNum/obj/Debug/net6.0/InvNum.AssemblyInfo.cs
+/home/jj/Documentos/ADSO/adso-2022-jj/InvNum/obj/Debug/net6.0/InvNum.csproj.CoreCompileInputs.cache
+/home/jj/Documentos/ADSO/adso-2022-jj/InvNum/obj/Debug/net6.0/InvNum.dll
+/home/jj/Documentos/ADSO/adso-2022-jj/InvNum/obj/Debug/net6.0/refint/InvNum.dll
+/home/jj/Documentos/ADSO/adso-2022-jj/InvNum/obj/Debug/net6.0/InvNum.pdb
+/home/jj/Documentos/ADSO/adso-2022-jj/InvNum/obj/Debug/net6.0/InvNum.genruntimeconfig.cache
+/home/jj/Documentos/ADSO/adso-2022-jj/InvNum/obj/Debug/net6.0/ref/InvNum.dll
