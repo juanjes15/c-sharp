@@ -3,3 +3,13 @@
 /home/jj/Documentos/ADSO/adso-2022-jj/IPaBin/obj/Debug/net6.0/IPaBin.AssemblyInfoInputs.cache
 /home/jj/Documentos/ADSO/adso-2022-jj/IPaBin/obj/Debug/net6.0/IPaBin.AssemblyInfo.cs
 /home/jj/Documentos/ADSO/adso-2022-jj/IPaBin/obj/Debug/net6.0/IPaBin.csproj.CoreCompileInputs.cache
+/home/jj/Documentos/ADSO/adso-2022-jj/IPaBin/bin/Debug/net6.0/IPaBin
+/home/jj/Documentos/ADSO/adso-2022-jj/IPaBin/bin/Debug/net6.0/IPaBin.deps.json
+/home/jj/Documentos/ADSO/adso-2022-jj/IPaBin/bin/Debug/net6.0/IPaBin.runtimeconfig.json
+/home/jj/Documentos/ADSO/adso-2022-jj/IPaBin/bin/Debug/net6.0/IPaBin.dll
+/home/jj/Documentos/ADSO/adso-2022-jj/IPaBin/bin/Debug/net6.0/IPaBin.pdb
+/home/jj/Documentos/ADSO/adso-2022-jj/IPaBin/obj/Debug/net6.0/IPaBin.dll
+/home/jj/Documentos/ADSO/adso-2022-jj/IPaBin/obj/Debug/net6.0/refint/IPaBin.dll
+/home/jj/Documentos/ADSO/adso-2022-jj/IPaBin/obj/Debug/net6.0/IPaBin.pdb
+/home/jj/Documentos/ADSO/adso-2022-jj/IPaBin/obj/Debug/net6.0/IPaBin.genruntimeconfig.cache
+/home/jj/Documentos/ADSO/adso-2022-jj/IPaBin/obj/Debug/net6.0/ref/IPaBin.dll

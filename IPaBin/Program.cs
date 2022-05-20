@@ -29,28 +29,28 @@ if ((n1 >= 1 && n1 <= 223) && (n2 >= 0 && n2 <= 255) && (n3 >= 0 && n3 <= 255) &
     temp = n1;
     for (int i = 0; i < 8; i++)
     {
-        b1 = (temp % 2).ToString + b1;
+        b1 = string.Format("{0}{1}", temp % 2, b1);
         temp = temp / 2;
     }
 
     temp = n2;
     for (int i = 0; i < 8; i++)
     {
-        b2 = (temp % 2).ToString + b2;
+        b2 = string.Format("{0}{1}", temp % 2, b2);
         temp = temp / 2;
     }
 
     temp = n3;
     for (int i = 0; i < 8; i++)
     {
-        b3 = ((temp % 2).ToString) + b3;
+        b3 = string.Format("{0}{1}", temp % 2, b3);
         temp = temp / 2;
     }
 
     temp = n4;
     for (int i = 0; i < 8; i++)
     {
-        b4 = (temp % 2).ToString + b4;
+        b4 = string.Format("{0}{1}", temp % 2, b4);
         temp = temp / 2;
     }
 }
@@ -59,6 +59,6 @@ else
     Console.WriteLine("Número invalido para una IP");
 }
 
-Console.WriteLine("La IP es: ", n1, ".", n2, ".", n3, ".", n4);
-Console.WriteLine("La IP en binario es: ", b1, ".", b2, ".", b3, ".", b4);
-Console.WriteLine("Su clasificación es: ", clase);
+Console.WriteLine("La IP es: " + n1 + "." + n2 + "." + n3 + "." + n4);
+Console.WriteLine(string.Format("La IP en binario es: {0}.{1}.{2}.{3}", b1, b2, b3, b4));
+Console.WriteLine($"Su clasificación es: {clase}");
