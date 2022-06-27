@@ -28,6 +28,7 @@ def validar(codigo):
         errores += 1
     if codigo.count('p') > 4:
         print("ERROR: El código NO debe contener más de 4 veces la letra 'p'")
+        errores += 1
     if errores != 0:
         print("Revisa el código, hay ", errores, " errores")
         error = True
