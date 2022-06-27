@@ -139,4 +139,4 @@ if decision:
     nivel = getnivel()
 nivel = asignarnivel(decision, nivel)
 mundo = asignarmundo(decision, nivel)
-print("El jugador queda en el mundo {}, nivel {}".format(mundo, nivel))
+print("{} queda en el mundo {}, nivel {}".format(nick, mundo, nivel))
